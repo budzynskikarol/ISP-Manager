@@ -1,0 +1,8 @@
+Dane logowania do aplikacji
+login / haslo
+
+admin / admin
+karol / QAZWSX!@#
+dawid / QAZWSX!@#
+sebastian / QAZWSX!@#
+krystian / QAZWSX!@#
