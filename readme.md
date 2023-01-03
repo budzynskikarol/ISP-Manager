@@ -2,4 +2,4 @@
 
 A desktop database application created in C#, supporting the work of an internet service provider.
 
-![Preview](https://github.com/budzynskikarol/digitalclock/blob/main/digitalclock.png?raw=true)
+![Preview](https://github.com/budzynskikarol/ISP-Manager/blob/main/Images/Logowanie.jpg)
